@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative biologist with a background in physics. I am broadly interested in understanding biological systems with a dynamical and evolutionary flavor using a combination of theoretical, computational, and experimental tools. My work often involves iterating between a realistic understanding of the known biology of a system and a theoretical lens based on simple dynamical models. I often use quantitative experimental technologies, which often require me to develop new computational and statistical approaches. I generally thrive in team settings, and my work has often been highly collaborative.
+I am a quantitative biologist with a background in physics. I am broadly interested in understanding biological systems with a dynamical and evolutionary flavor using a combination of theoretical, computational, and experimental tools. My work often involves iterating between a realistic understanding of the known biology of a system and a theoretical lens based on simple dynamical models. I often use quantitative experimental technologies, which sometimes require me to develop new computational and statistical approaches. I generally thrive in team settings, and my work has been highly collaborative.
 
 Over the course of the past few years, I have been particularly interested in understanding the dynamical processes that shape the adaptive immune system, which crucially relies on evolution to generate protective memory. I have been especially focused on  understanding how antibody-based immune memory forms over the course of a human life.
 
