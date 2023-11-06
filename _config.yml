@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ivana Cvijović"
-  avatar           : "imgaes/relaxed_headshot.png"
+  avatar           : "images/relaxed_headshot.png"
   bio              : "Research Scientist at Stanford University"
   location         : "Palo Alto, CA"
   employer         :
